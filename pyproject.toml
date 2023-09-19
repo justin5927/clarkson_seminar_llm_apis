@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "clarkson-seminar-llm-apis"
+version = "0.1.0"
+description = ""
+authors = ["justin5927 <jauyeung59@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain = "^0.0.294"
+ipykernel = "^6.25.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
