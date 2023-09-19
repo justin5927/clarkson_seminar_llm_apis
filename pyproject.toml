@@ -12,6 +12,10 @@ ipykernel = "^6.25.2"
 openai = "^0.28.0"
 python-dotenv = "^1.0.0"
 google-search-results = "^2.4.2"
+unstructured = "^0.10.15"
+selenium = "^4.12.0"
+chromadb = "^0.4.10"
+tiktoken = "^0.5.1"
 
 
 [build-system]
