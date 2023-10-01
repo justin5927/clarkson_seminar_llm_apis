@@ -6,3 +6,6 @@ unstructured==0.10.15
 selenium==4.12.0
 chromadb==0.4.10
 tiktoken==0.5.1
+pdf2image==1.16.3
+pdfminer==20191125
+pdfminer-six==20221105
