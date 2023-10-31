@@ -17,8 +17,9 @@ Clarkson Seminar on LLMs specifically on applications of OpenAI with Langchain
 
 
 # Google Colab
-- Intro Example for QA Models
-[![Intro Example for QA Models](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/11RpwGLy7TcIBLsYbNolQSwSfIhW-Su5f/view?usp=sharing)
+Make sure to open with google colab to see full notebook
 - Intro Example to Langchain
-[![Intro Example to Langchain](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1PHBz9rU80x5F9qW5nCn9IRiKjG9yNE-d/view?usp=sharing)
+[![Intro Example to Langchain](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/11RpwGLy7TcIBLsYbNolQSwSfIhW-Su5f/view?usp=sharing)
+- Intro Example for QA Models
+[![Intro Example for QA Models](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1PHBz9rU80x5F9qW5nCn9IRiKjG9yNE-d/view?usp=sharing)
 
