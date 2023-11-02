@@ -19,10 +19,10 @@ Clarkson Seminar on LLMs specifically on applications of OpenAI with Langchain
 # Google Colab
 Make sure to open with google colab to see full notebook
 - Intro Example to Langchain
-[![Intro Example to Langchain](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/11RpwGLy7TcIBLsYbNolQSwSfIhW-Su5f/view?usp=sharing)
+[![Intro Example to Langchain](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KzLkHtkn3LdaXLcpRkVZnuqORDg7PDnJ?usp=sharing)
 - Intro Example for Agent Models
-[![Intro Example for Agent Models](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1IFg8u8S7X9dagYOri_ANjJcSvV_smElD/view?usp=sharing)
+[![Intro Example for Agent Models](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eWeYJn0tLYWG5HhpMgNjDjABqdWBtdz6?usp=sharing)
 - Intro Example for QA Models
-[![Intro Example for QA Models](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1PHBz9rU80x5F9qW5nCn9IRiKjG9yNE-d/view?usp=sharing)
+[![Intro Example for QA Models](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zyZVgqQo-QLlaaZtRIc5hXxT51pPBTgE?usp=sharing)
 - QA Models for research paper
-[![QA Models for research paper](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1H082BgQnR9qPse0R1jl845vILgwUe1ov/view?usp=sharing)
+[![QA Models for research paper](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TpyMOcb0xEbKTma6Ge_ViXfE56nJArjj?usp=sharing)
