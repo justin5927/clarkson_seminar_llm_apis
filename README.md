@@ -24,4 +24,4 @@ Make sure to open with google colab to see full notebook
 [![Intro Example for Agent Models](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1IFg8u8S7X9dagYOri_ANjJcSvV_smElD/view?usp=sharing)
 - Intro Example for QA Models
 [![Intro Example for QA Models](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1PHBz9rU80x5F9qW5nCn9IRiKjG9yNE-d/view?usp=sharing)
-
+[![QA Models for research paper](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1H082BgQnR9qPse0R1jl845vILgwUe1ov/view?usp=sharing)
